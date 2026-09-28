@@ -1,0 +1,13 @@
+# Local browser state
+browser-profile/
+
+# Generated scan output
+output/
+*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
